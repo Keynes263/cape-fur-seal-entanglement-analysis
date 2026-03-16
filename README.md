@@ -21,7 +21,7 @@ The analysis uses several techniques from the Environmental Data Science program
 - Visualization of debris composition and demographic patterns
 - Temporal trend analysis
 - Spatial interpretation of entanglement hotspots
-## Key Findings (50-word Summary)
+## Key Findings 
 This project analyzes Cape fur seal entanglement incidents along the Namibian coast from 2021–2025. Using exploratory data analysis and visualization, the study identifies spatial hotspots, seasonal patterns, and debris types responsible for entanglements. Results show industrial and fishing debris dominate incidents, supporting geographically targeted and time-sensitive conservation interventions.
 ## Conservation Implications
 Entanglement events cluster near Pelican Point and Cape Cross and show seasonal peaks. Because these incidents are spatially concentrated and temporally patterned, conservation actions such as debris removal, fisheries gear management, and targeted monitoring can reduce preventable wildlife harm.
