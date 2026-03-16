@@ -1,0 +1,718 @@
+DATE,TIME,COLONY,LOCATION,SEX,AGE,CATEGORY,ITEM,SEVERITY,ACTION,OUTCOME,EQUIPMENT,NUMBER,NOTE,Year,Month,Severity_Score,Event_Count
+12/13/2021,7:27:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,606,-,2021,12,4,1
+12/3/2021,8:22:00,Pelican Point,Outside,Male,Subadult,Industrial,Rope,Severe,Sighting,-,-,-,Newborns In The Group,2021,12,3,1
+12/3/2021,7:07:00,Pelican Point,Lighthouse (S),Female,Subadult,Industrial,Packaging Strap,Very Severe,Sighting,-,-,-,Newborns In The Group,2021,12,4,1
+11/22/2021,9:03:00,Pelican Point,Inside,Female,Adult,Fishing,Commercial Line,Slight,Sighting,-,-,-,Newborns In The Group,2021,11,1,1
+11/22/2021,10:02:00,Pelican Point,Jetty,Female,Juvenile,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Newborns In The Group,2021,11,1,1
+11/19/2021,8:10:00,Pelican Point,Inside,Female,Juvenile,Fishing,Commercial Line,Slight,Sighting,-,-,-,Newborns In The Group,2021,11,1,1
+11/8/2021,10:02:00,Pelican Point,Outside,Male,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,605,-,2021,11,1,1
+11/7/2021,10:05:00,Cape Cross,Parking,Male,Pup,Domestic,Plastic Wrap,Slight,Rescue Attempt,Item Removed,,603,-,2021,11,1,1
+11/7/2021,11:33:00,Cape Cross,Beach (S),Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,604,-,2021,11,1,1
+11/7/2021,11:17:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Sighting,-,-,-,Newborns In The Group,2021,11,3,1
+11/7/2021,11:14:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Slight,Sighting,-,-,-,Newborns In The Group,2021,11,1,1
+11/7/2021,10:31:00,Cape Cross,Walkway,Female,Pup,Fishing,Net,Slight,Sighting,-,-,-,Newborns In The Group,2021,11,1,1
+11/6/2021,15:00:00,Other,Walvis Bay,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,602,-,2021,11,,1
+11/4/2021,7:39:00,Pelican Point,Wreck,Male,Adult,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,601,-,2021,11,4,1
+11/2/2021,8:12:00,Pelican Point,Wreck,Female,Subadult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,600,-,2021,11,3,1
+11/1/2021,9:15:00,Pelican Point,Outside,Male,Juvenile,Fishing,Commercial Line,Slight,Sighting,-,-,-,Newborns In The Group,2021,11,1,1
+11/1/2021,8:45:00,Pelican Point,Point,Female,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,,599,-,2021,11,3,1
+11/1/2021,8:03:00,Pelican Point,Jetty,Male,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,598,-,2021,11,1,1
+11/1/2021,8:02:00,Pelican Point,Jetty,Female,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,597,-,2021,11,,1
+10/29/2021,9:37:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,10,1,1
+10/29/2021,8:53:00,Pelican Point,Point,Male,Adult,Industrial,Packaging Strap,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,10,3,1
+10/25/2021,10:20:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,596,-,2021,10,,1
+10/25/2021,8:32:00,Pelican Point,Outside,Female,Juvenile,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,595,-,2021,10,1,1
+10/25/2021,7:23:00,Pelican Point,Lighthouse (N),Female,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,594,-,2021,10,3,1
+10/23/2021,17:43:00,Other,Paaltjies (S),Female,Subadult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,593,-,2021,10,4,1
+10/22/2021,9:05:00,Pelican Point,Outside,Female,Subadult,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,592,-,2021,10,1,1
+10/22/2021,8:22:00,Pelican Point,Wreck,Female,Juvenile,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,10,1,1
+10/22/2021,8:04:00,Pelican Point,Wreck,Female,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,591,-,2021,10,,1
+10/20/2021,11:11:00,Pelican Point,Point,Female,Subadult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,590,-,2021,10,3,1
+10/20/2021,11:10:00,Pelican Point,Point,Male,Juvenile,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,589,-,2021,10,4,1
+10/20/2021,10:23:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,588,-,2021,10,,1
+10/20/2021,8:49:00,Pelican Point,Lighthouse (N),Male,Subadult,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,587,#NAME?,2021,10,1,1
+10/18/2021,8:55:00,Pelican Point,Jetty,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,585,#NAME?,2021,10,1,1
+10/18/2021,8:44:00,Pelican Point,Jetty,Male,Juvenile,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,584,-,2021,10,1,1
+10/18/2021,9:32:00,Pelican Point,Inside,Male,Subadult,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,10,1,1
+10/18/2021,9:31:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,586,-,2021,10,,1
+10/18/2021,8:19:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,583,-,2021,10,1,1
+10/15/2021,8:55:00,Pelican Point,Lighthouse (N),Unknown,Juvenile,Fishing,Commercial Line,Deceased Animal,Sighting,-,-,-,-,2021,10,,1
+10/15/2021,8:54:00,Pelican Point,Lighthouse (N),Male,Adult,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,582,-,2021,10,4,1
+10/15/2021,8:53:00,Pelican Point,Lighthouse (N),Male,Adult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,581,#NAME?,2021,10,4,1
+10/13/2021,11:25:00,Pelican Point,Wreck,Male,Subadult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,580,-,2021,10,3,1
+10/13/2021,10:06:00,Pelican Point,Outside,Female,Pup,Fishing,Net,Very Severe,Rescue Attempt,Item Removed,,579,-,2021,10,4,1
+10/13/2021,9:16:00,Pelican Point,Outside,Female,Juvenile,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,578,-,2021,10,4,1
+10/11/2021,9:56:00,Pelican Point,Outside,Male,Juvenile,Fishing,Net,,Rescue Attempt,Item Removed,Net,576,-,2021,10,,1
+10/11/2021,9:13:00,Pelican Point,Inside,Male,Adult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,575,#NAME?,2021,10,4,1
+10/11/2021,8:14:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,573,-,2021,10,1,1
+10/11/2021,10:28:00,Pelican Point,Outside,Male,Adult,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,577,-,2021,10,3,1
+10/11/2021,8:33:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,574,-,2021,10,,1
+10/8/2021,10:58:00,Pelican Point,Outside,Female,Subadult,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,572,-,2021,10,3,1
+10/6/2021,11:31:00,Cape Cross,Walkway,Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,570,-,2021,10,,1
+10/6/2021,10:39:00,Cape Cross,Walkway,Female,Pup,Fishing,Net,,Rescue Attempt,Item Removed,,567,-,2021,10,,1
+10/6/2021,11:57:00,Cape Cross,Parking,Male,Juvenile,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,571,-,2021,10,3,1
+10/6/2021,11:16:00,Cape Cross,Beach (N),Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,569,-,2021,10,4,1
+10/6/2021,10:55:00,Cape Cross,Walkway,Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,,568,-,2021,10,1,1
+10/4/2021,10:44:00,Pelican Point,Outside,Male,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,566,-,2021,10,,1
+10/4/2021,10:33:00,Pelican Point,Outside,Male,Adult,Fishing,Net,Slight,Rescue Attempt,Item Removed,Net,565,-,2021,10,1,1
+10/4/2021,9:19:00,Pelican Point,Jetty,Male,Adult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,563,-,2021,10,4,1
+10/4/2021,8:20:00,Pelican Point,Wreck,Female,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,562,75% Overgrown,2021,10,3,1
+10/4/2021,8:19:00,Pelican Point,Wreck,Male,Adult,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,561,-,2021,10,3,1
+10/4/2021,10:07:00,Pelican Point,Outside,Male,Adult,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,564,-,2021,10,3,1
+10/1/2021,8:42:00,Pelican Point,Outside,Female,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,,559,-,2021,10,1,1
+10/1/2021,7:22:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,557,#NAME?,2021,10,,1
+10/1/2021,7:04:00,Pelican Point,Wreck,Female,Subadult,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,556,100% Overgrown,2021,10,4,1
+10/1/2021,8:22:00,Pelican Point,Outside,Male,Adult,Industrial,Rope,,Rescue Attempt,Item Removed,Net,558,-,2021,10,,1
+10/1/2021,8:57:00,Pelican Point,Outside,Female,Adult,Natural,Saint Joseph Shark Spike,Slight,Rescue Attempt,Item Removed,Net,560,-,2021,10,1,1
+9/29/2021,11:51:00,Pelican Point,Inside,Male,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,Net,554,Hatband,2021,9,,1
+9/29/2021,11:50:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,9,1,1
+9/29/2021,10:41:00,Pelican Point,Outside,Unknown,Pup,Fishing,Net,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,9,3,1
+9/29/2021,10:40:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,9,3,1
+9/29/2021,10:38:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,552,-,2021,9,3,1
+9/29/2021,7:53:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,551,-,2021,9,,1
+9/29/2021,11:52:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,555,-,2021,9,,1
+9/29/2021,10:39:00,Pelican Point,Outside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,553,-,2021,9,4,1
+9/28/2021,14:49:00,Pelican Point,Inside,Female,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,550,-,2021,9,,1
+9/27/2021,10:39:00,Pelican Point,Lighthouse (N),Male,Juvenile,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,549,-,2021,9,3,1
+9/27/2021,9:19:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,547,100% Overgrown,2021,9,3,1
+9/27/2021,9:45:00,Pelican Point,Outside,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,548,-,2021,9,1,1
+9/27/2021,8:51:00,Pelican Point,Point,Female,Juvenile,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,546,-,2021,9,1,1
+9/24/2021,10:48:00,Pelican Point,Outside,Male,Subadult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,544,#NAME?,2021,9,4,1
+9/24/2021,9:44:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,541,-,2021,9,4,1
+9/24/2021,9:43:00,Pelican Point,Outside,Female,Subadult,Fishing,Other,,Rescue Attempt,Item Removed,Net,540,Longline Marker Rope,2021,9,,1
+9/24/2021,9:12:00,Pelican Point,Lighthouse (N),Male,Subadult,Fishing,Hook,Very Severe,Rescue Attempt,Failure,-,-,Escape,2021,9,4,1
+9/24/2021,9:11:00,Pelican Point,Lighthouse (N),Female,Subadult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,,539,#NAME?,2021,9,4,1
+9/24/2021,10:49:00,Pelican Point,Outside,Female,Adult,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,545,-,2021,9,1,1
+9/24/2021,10:19:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,543,-,2021,9,,1
+9/24/2021,9:45:00,Pelican Point,Outside,Male,Adult,Industrial,Rope,,Rescue Attempt,Item Removed,Net,542,-,2021,9,,1
+9/24/2021,9:10:00,Pelican Point,Lighthouse (N),Male,Adult,Natural,Saint Joseph Shark Spike,Severe,Rescue Attempt,Item Removed,Net,538,-,2021,9,3,1
+9/22/2021,9:12:00,Pelican Point,Jetty,Male,Pup,Domestic,Other,,Rescue Attempt,Item Removed,Net,536,Mop Head,2021,9,,1
+9/22/2021,9:55:00,Pelican Point,Lighthouse (S),Female,Pup,Fishing,Net,,Rescue Attempt,Item Removed,,537,-,2021,9,,1
+9/22/2021,8:23:00,Pelican Point,Inside,Male,Subadult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,534,#NAME?,2021,9,4,1
+9/22/2021,7:41:00,Pelican Point,Inside,Male,Subadult,Fishing,Hook,Severe,Rescue Attempt,Item Removed,Net,533,#NAME?,2021,9,3,1
+9/22/2021,7:40:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,532,-,2021,9,3,1
+9/22/2021,10:07:00,Pelican Point,Lighthouse (S),Male,Subadult,Industrial,Rope,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,9,1,1
+9/22/2021,9:56:00,Pelican Point,Lighthouse (S),Male,Subadult,Industrial,Packaging Strap,Slight,Rescue Attempt,Failure,-,-,Escape,2021,9,1,1
+9/22/2021,9:41:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Severe,Rescue Attempt,Failure,-,-,Escape,2021,9,3,1
+9/22/2021,9:11:00,Pelican Point,Jetty,Male,Adult,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,535,-,2021,9,1,1
+9/20/2021,10:34:00,Pelican Point,Outside,Male,Juvenile,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,531,#NAME?,2021,9,4,1
+9/20/2021,10:33:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,530,-,2021,9,3,1
+9/20/2021,8:38:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,527,-,2021,9,,1
+9/20/2021,8:37:00,Pelican Point,Jetty,Male,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,526,-,2021,9,1,1
+9/20/2021,8:02:00,Pelican Point,Wreck,Male,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,525,-,2021,9,1,1
+9/20/2021,8:00:00,Pelican Point,Wreck,Female,Juvenile,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,524,-,2021,9,3,1
+9/20/2021,10:08:00,Pelican Point,Outside,Male,Juvenile,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,529,-,2021,9,4,1
+9/20/2021,8:39:00,Pelican Point,Jetty,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,528,-,2021,9,,1
+9/20/2021,8:01:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Failure,-,-,Escape,2021,9,,1
+9/17/2021,12:15:00,Cape Cross,Beach (N),Female,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,Net,523,-,2021,9,,1
+9/17/2021,11:13:00,Cape Cross,Parking,Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,Net,521,-,2021,9,,1
+9/17/2021,12:14:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,522,-,2021,9,,1
+9/17/2021,11:20:00,Cape Cross,Beach (S),Male,Pup,Industrial,Rope,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,9,3,1
+9/17/2021,11:12:00,Cape Cross,Beach (S),Male,Pup,Industrial,Other,,Rescue Attempt,Item Removed,Net,520,Filter,2021,9,,1
+9/17/2021,11:04:00,Cape Cross,Walkway,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,519,-,2021,9,1,1
+9/17/2021,11:03:00,Cape Cross,Walkway,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,518,-,2021,9,1,1
+9/17/2021,11:02:00,Cape Cross,Parking,Female,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,517,-,2021,9,1,1
+9/15/2021,7:50:00,Pelican Point,Jetty,Male,Juvenile,Domestic,Clothing,Slight,Rescue Attempt,Item Removed,Net,513,Hatband,2021,9,1,1
+9/15/2021,9:34:00,Pelican Point,Outside,Female,Juvenile,Fishing,Other,Deceased Animal,Sighting,-,-,-,Longline Marker Netting,2021,9,,1
+9/15/2021,9:33:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,516,-,2021,9,,1
+9/15/2021,9:04:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,515,-,2021,9,3,1
+9/15/2021,7:49:00,Pelican Point,Jetty,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,512,-,2021,9,1,1
+9/15/2021,8:33:00,Pelican Point,Outside,Male,Adult,Industrial,Other,,Rescue Attempt,Item Removed,Net,514,Cargo Net,2021,9,,1
+9/13/2021,10:24:00,Pelican Point,Outside,Male,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,511,-,2021,9,1,1
+9/13/2021,10:11:00,Pelican Point,Outside,Male,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,510,-,2021,9,1,1
+9/13/2021,9:48:00,Pelican Point,Outside,Male,Adult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,509,#NAME?,2021,9,4,1
+9/13/2021,8:39:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,508,-,2021,9,,1
+9/13/2021,8:24:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,507,-,2021,9,,1
+9/8/2021,11:28:00,Pelican Point,Wreck,Female,Juvenile,Domestic,Plastic Bag,Very Severe,Rescue Attempt,Item Removed,Net,501,-,2021,9,4,1
+9/8/2021,13:06:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,,Sighting,-,-,-,Animal Too Close To The Water,2021,9,,1
+9/8/2021,13:05:00,Pelican Point,Inside,Unknown,Juvenile,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,9,1,1
+9/8/2021,13:04:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,506,-,2021,9,,1
+9/8/2021,12:46:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,505,-,2021,9,,1
+9/8/2021,12:18:00,Pelican Point,Inside,Male,Subadult,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,504,-,2021,9,,1
+9/8/2021,11:27:00,Pelican Point,Wreck,Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,500,-,2021,9,4,1
+9/8/2021,11:26:00,Pelican Point,Wreck,Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,499,-,2021,9,3,1
+9/8/2021,13:32:00,Pelican Point,Jetty,Female,Pup,Industrial,Packaging Strap,,Sighting,-,-,-,Animal Too Close To The Water,2021,9,,1
+9/8/2021,13:31:00,Pelican Point,Jetty,Female,Pup,Industrial,Clothing,,Sighting,-,-,-,Animal Too Close To The Water,2021,9,,1
+9/8/2021,12:17:00,Pelican Point,Inside,Male,Pup,Industrial,Gasket,Slight,Rescue Attempt,Item Removed,Net,503,-,2021,9,1,1
+9/8/2021,12:03:00,Pelican Point,Inside,Male,Pup,Industrial,Other,,Rescue Attempt,Item Removed,,502,Bucket Sealing Ring,2021,9,,1
+9/6/2021,10:32:00,Pelican Point,Outside,Male,Adult,Domestic,Clothing,,Rescue Attempt,Item Removed,Net,497,T-shirt Thread,2021,9,,1
+9/6/2021,10:48:00,Pelican Point,Lighthouse (N),Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,498,-,2021,9,,1
+9/6/2021,10:11:00,Pelican Point,Outside,Male,Adult,Fishing,Hook,Slight,Rescue Attempt,Item Dropped,-,496,#NAME?,2021,9,1,1
+9/6/2021,9:23:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Failure,-,-,Escape,2021,9,,1
+9/6/2021,9:22:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,9,1,1
+9/6/2021,8:57:00,Pelican Point,Point,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,494,-,2021,9,1,1
+9/6/2021,8:12:00,Pelican Point,Wreck,Male,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,493,-,2021,9,,1
+9/6/2021,9:42:00,Pelican Point,Outside,Female,Juvenile,Industrial,Rope,,Rescue Attempt,Item Removed,,495,-,2021,9,,1
+9/3/2021,10:52:00,Pelican Point,Lighthouse (N),Male,Subadult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,492,-,2021,9,4,1
+9/3/2021,9:09:00,Pelican Point,Wreck,Male,Adult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,490,-,2021,9,4,1
+9/3/2021,8:11:00,Pelican Point,Lighthouse (S),Female,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,489,-,2021,9,1,1
+9/3/2021,10:27:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,491,-,2021,9,,1
+9/1/2021,10:44:00,Cape Cross,Beach (N),Female,Subadult,Domestic,Plastic Bag,Slight,Sighting,-,-,-,-,2021,9,1,1
+9/1/2021,10:06:00,Cape Cross,Parking,Female,Adult,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,480,-,2021,9,,1
+9/1/2021,9:14:00,Cape Cross,Beach (S),Male,Pup,Domestic,Plastic Wrap,Slight,Rescue Attempt,Item Removed,Net,470,-,2021,9,1,1
+9/1/2021,11:01:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,487,50% Overgrown,2021,9,3,1
+9/1/2021,10:57:00,Cape Cross,Beach (N),Male,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,,486,75% Overgrown,2021,9,3,1
+9/1/2021,10:50:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,482,100% Overgrown,2021,9,3,1
+9/1/2021,9:55:00,Cape Cross,Parking,Male,Juvenile,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,,478,#NAME?,2021,9,4,1
+9/1/2021,9:32:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,475,75% Overgrown,2021,9,3,1
+9/1/2021,9:30:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,473,-,2021,9,3,1
+9/1/2021,9:13:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,469,-,2021,9,3,1
+9/1/2021,7:50:00,Cape Cross,Beach (N),Female,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,,465,-,2021,9,3,1
+9/1/2021,7:47:00,Cape Cross,Beach (N),Female,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,,464,100% Overgrown,2021,9,3,1
+9/1/2021,11:08:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,488,-,2021,9,1,1
+9/1/2021,10:56:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,485,-,2021,9,4,1
+9/1/2021,10:52:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,484,-,2021,9,4,1
+9/1/2021,10:51:00,Cape Cross,Beach (N),Male,Juvenile,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,483,-,2021,9,1,1
+9/1/2021,10:31:00,Cape Cross,Walkway,Male,Juvenile,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,481,-,2021,9,,1
+9/1/2021,10:05:00,Cape Cross,Parking,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,479,-,2021,9,1,1
+9/1/2021,9:54:00,Cape Cross,Parking,Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,477,-,2021,9,1,1
+9/1/2021,9:33:00,Cape Cross,Beach (S),Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,476,-,2021,9,1,1
+9/1/2021,9:31:00,Cape Cross,Beach (S),Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,474,-,2021,9,4,1
+9/1/2021,9:23:00,Cape Cross,Beach (S),Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,472,-,2021,9,3,1
+9/1/2021,9:17:00,Cape Cross,Beach (S),Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,471,-,2021,9,,1
+9/1/2021,8:20:00,Cape Cross,Walkway,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,468,-,2021,9,,1
+9/1/2021,7:52:00,Cape Cross,Beach (N),Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,467,-,2021,9,4,1
+9/1/2021,7:51:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,,466,-,2021,9,4,1
+8/30/2021,12:16:00,Pelican Point,Lighthouse (N),Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,463,-,2021,8,,1
+8/30/2021,11:33:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,8,1,1
+8/30/2021,11:57:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,Severe,Rescue Attempt,Failure,-,-,Escape,2021,8,3,1
+8/30/2021,11:32:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,462,-,2021,8,,1
+8/26/2021,9:04:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,461,-,2021,8,3,1
+8/25/2021,12:17:00,Pelican Point,Inside,Female,Juvenile,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,456,-,2021,8,,1
+8/25/2021,10:20:00,Pelican Point,Wreck,Male,Subadult,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,Net,448,-,2021,8,,1
+8/25/2021,12:21:00,Pelican Point,Inside,Male,Juvenile,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,460,-,2021,8,1,1
+8/25/2021,12:19:00,Pelican Point,Inside,Male,Juvenile,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,458,-,2021,8,1,1
+8/25/2021,12:14:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,453,-,2021,8,,1
+8/25/2021,12:13:00,Pelican Point,Inside,Female,Pup,Fishing,Net,,Rescue Attempt,Item Removed,,452,-,2021,8,,1
+8/25/2021,11:06:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,451,-,2021,8,,1
+8/25/2021,10:22:00,Pelican Point,Wreck,Male,Subadult,Fishing,Commercial Line,Slight,Sighting,-,-,-,-,2021,8,1,1
+8/25/2021,10:21:00,Pelican Point,Wreck,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,449,-,2021,8,,1
+8/25/2021,12:20:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,459,-,2021,8,,1
+8/25/2021,12:18:00,Pelican Point,Inside,Female,Pup,Industrial,Other,,Rescue Attempt,Item Dropped,-,457,Electric Cable Insulation,2021,8,,1
+8/25/2021,12:16:00,Pelican Point,Inside,Female,Pup,Industrial,Other,,Rescue Attempt,Item Removed,Net,455,Barrier Tape,2021,8,,1
+8/25/2021,12:15:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,454,-,2021,8,,1
+8/25/2021,11:05:00,Pelican Point,Inside,Male,Subadult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,450,-,2021,8,,1
+8/23/2021,10:42:00,Pelican Point,Lighthouse (S),Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,447,-,2021,8,1,1
+8/23/2021,10:00:00,Pelican Point,Outside,Male,Adult,Fishing,Recreational Line,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,8,1,1
+8/23/2021,9:02:00,Pelican Point,Point,Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,446,-,2021,8,,1
+8/23/2021,8:31:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,444,-,2021,8,3,1
+8/23/2021,8:16:00,Pelican Point,Jetty,Male,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,443,#NAME?,2021,8,1,1
+8/23/2021,9:01:00,Pelican Point,Point,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,445,-,2021,8,,1
+8/23/2021,8:04:00,Pelican Point,Wreck,Female,Pup,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,8,1,1
+8/20/2021,9:44:00,Cape Cross,Beach (S),Female,Juvenile,Domestic,Plastic Bag,Slight,Rescue Attempt,Item Removed,Net,429,-,2021,8,1,1
+8/20/2021,8:25:00,Cape Cross,Walkway,Female,Pup,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,419,-,2021,8,,1
+8/20/2021,11:09:00,Cape Cross,Beach (N),Male,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,441,-,2021,8,1,1
+8/20/2021,10:59:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,437,-,2021,8,1,1
+8/20/2021,10:20:00,Cape Cross,Parking,Female,Subadult,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,433,-,2021,8,3,1
+8/20/2021,10:11:00,Cape Cross,Beach (S),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,432,-,2021,8,4,1
+8/20/2021,9:38:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,428,-,2021,8,1,1
+8/20/2021,9:26:00,Cape Cross,Beach (S),Male,Juvenile,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,426,-,2021,8,4,1
+8/20/2021,8:41:00,Cape Cross,Parking,Female,Subadult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,422,-,2021,8,3,1
+8/20/2021,7:57:00,Cape Cross,Beach (N),Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,418,75% Overgrown,2021,8,3,1
+8/20/2021,7:53:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,414,-,2021,8,4,1
+8/20/2021,7:51:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,412,75% Overgrown,2021,8,3,1
+8/20/2021,11:19:00,Cape Cross,Beach (N),Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,,442,-,2021,8,1,1
+8/20/2021,11:08:00,Cape Cross,Beach (N),Male,Juvenile,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,440,-,2021,8,3,1
+8/20/2021,11:07:00,Cape Cross,Beach (N),Female,Pup,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,439,-,2021,8,3,1
+8/20/2021,11:06:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,438,-,2021,8,1,1
+8/20/2021,10:58:00,Cape Cross,Beach (N),Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,436,-,2021,8,,1
+8/20/2021,10:52:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,435,-,2021,8,4,1
+8/20/2021,10:48:00,Cape Cross,Beach (N),Male,Juvenile,Industrial,Other,Slight,Rescue Attempt,Item Removed,Net,434,Cargo Net,2021,8,1,1
+8/20/2021,9:54:00,Cape Cross,Beach (S),Male,Pup,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,431,-,2021,8,4,1
+8/20/2021,9:53:00,Cape Cross,Beach (S),Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,430,-,2021,8,1,1
+8/20/2021,9:33:00,Cape Cross,Beach (S),Female,Adult,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,427,-,2021,8,4,1
+8/20/2021,8:56:00,Cape Cross,Parking,Female,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,425,-,2021,8,1,1
+8/20/2021,8:55:00,Cape Cross,Parking,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,424,-,2021,8,1,1
+8/20/2021,8:54:00,Cape Cross,Parking,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,423,-,2021,8,,1
+8/20/2021,8:33:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,421,-,2021,8,,1
+8/20/2021,8:26:00,Cape Cross,Walkway,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,420,-,2021,8,,1
+8/20/2021,7:56:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,417,-,2021,8,4,1
+8/20/2021,7:55:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,416,-,2021,8,4,1
+8/20/2021,7:54:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,,415,-,2021,8,3,1
+8/20/2021,7:52:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,413,-,2021,8,4,1
+8/19/2021,12:20:00,Pelican Point,Inside,Male,Pup,Domestic,Plastic Bag,,Sighting,-,-,-,Animal Too Close To The Water,2021,8,,1
+8/19/2021,11:33:00,Pelican Point,Outside,Female,Subadult,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,409,-,2021,8,3,1
+8/19/2021,10:00:00,Pelican Point,Wreck,Male,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,408,-,2021,8,1,1
+8/19/2021,9:59:00,Pelican Point,Wreck,Female,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,407,-,2021,8,3,1
+8/19/2021,12:21:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,411,-,2021,8,,1
+8/19/2021,12:19:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Failure,-,-,-,2021,8,,1
+8/19/2021,12:18:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,8,1,1
+8/19/2021,12:17:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,410,-,2021,8,,1
+8/19/2021,11:44:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,Very Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,8,4,1
+8/18/2021,9:38:00,Pelican Point,Inside,Male,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Failure,-,-,Escape,2021,8,3,1
+8/18/2021,9:15:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,406,-,2021,8,,1
+8/18/2021,8:14:00,Pelican Point,Inside,Female,Juvenile,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,405,-,2021,8,3,1
+8/18/2021,8:13:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,404,-,2021,8,1,1
+8/18/2021,8:12:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,403,-,2021,8,,1
+8/16/2021,8:58:00,Pelican Point,Jetty,Female,Juvenile,Domestic,Clothing,,Rescue Attempt,Item Removed,,396,-,2021,8,,1
+8/16/2021,11:50:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,402,-,2021,8,,1
+8/16/2021,11:49:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,401,-,2021,8,,1
+8/16/2021,11:48:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,,400,#NAME?,2021,8,4,1
+8/16/2021,10:56:00,Pelican Point,Point,Female,Adult,Fishing,Recreational Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,8,3,1
+8/16/2021,10:29:00,Pelican Point,Outside,Female,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,399,#NAME?,2021,8,,1
+8/16/2021,10:00:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,398,-,2021,8,,1
+8/16/2021,9:18:00,Pelican Point,Outside,Female,Subadult,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,397,-,2021,8,4,1
+8/16/2021,11:34:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Sighting,-,-,-,Animal Too Close To The Water,2021,8,,1
+8/16/2021,8:36:00,Pelican Point,Wreck,Male,Adult,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,395,-,2021,8,3,1
+8/15/2021,17:28:00,Other,Langstrand,Male,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,394,-,2021,8,3,1
+8/11/2021,13:11:00,Pelican Point,Inside,Female,Pup,Domestic,Clothing,Slight,Rescue Attempt,Item Removed,Net,392,T-shirt Cuff,2021,8,1,1
+8/11/2021,12:54:00,Pelican Point,Inside,Male,Pup,Domestic,Plastic Bag,Severe,Rescue Attempt,Item Removed,Net,388,-,2021,8,3,1
+8/11/2021,11:21:00,Pelican Point,Inside,Female,Pup,Domestic,Clothing,Slight,Rescue Attempt,Item Removed,Net,379,Hat,2021,8,1,1
+8/11/2021,13:10:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,391,-,2021,8,3,1
+8/11/2021,13:05:00,Pelican Point,Inside,Female,Pup,Fishing,Net,,Rescue Attempt,Item Removed,Net,390,-,2021,8,,1
+8/11/2021,13:04:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,8,1,1
+8/11/2021,12:55:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,389,-,2021,8,4,1
+8/11/2021,12:53:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,387,-,2021,8,1,1
+8/11/2021,12:48:00,Pelican Point,Inside,Female,Juvenile,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,386,-,2021,8,,1
+8/11/2021,12:47:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,,385,-,2021,8,1,1
+8/11/2021,12:46:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,384,-,2021,8,,1
+8/11/2021,12:40:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,,Sighting,-,-,-,Animal In The Water,2021,8,,1
+8/11/2021,11:23:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,381,-,2021,8,3,1
+8/11/2021,10:24:00,Pelican Point,Wreck,Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,378,-,2021,8,4,1
+8/11/2021,10:23:00,Pelican Point,Wreck,Male,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,377,-,2021,8,1,1
+8/11/2021,10:22:00,Pelican Point,Wreck,Male,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,376,-,2021,8,,1
+8/11/2021,13:21:00,Pelican Point,Inside,Male,Juvenile,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,393,-,2021,8,,1
+8/11/2021,12:14:00,Pelican Point,Point,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,383,-,2021,8,4,1
+8/11/2021,12:13:00,Pelican Point,Point,Female,Juvenile,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,382,-,2021,8,3,1
+8/11/2021,11:22:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,380,-,2021,8,4,1
+8/9/2021,10:22:00,Pelican Point,Outside,Male,Juvenile,Domestic,Plastic Wrap,,Rescue Attempt,Failure,-,-,Escape,2021,8,,1
+8/9/2021,11:24:00,Pelican Point,Jetty,Male,Juvenile,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,374,-,2021,8,,1
+8/9/2021,11:07:00,Pelican Point,Jetty,Female,Pup,Fishing,Net,Very Severe,Rescue Attempt,Item Removed,,373,-,2021,8,4,1
+8/9/2021,9:18:00,Pelican Point,Point,Male,Subadult,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,372,-,2021,8,3,1
+8/9/2021,8:35:00,Pelican Point,Jetty,Male,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,,370,-,2021,8,1,1
+8/9/2021,11:25:00,Pelican Point,Jetty,Female,Juvenile,Industrial,Other,Slight,Rescue Attempt,Item Removed,,375,Fire Hose,2021,8,1,1
+8/9/2021,9:17:00,Pelican Point,Point,Female,Adult,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,8,1,1
+8/9/2021,8:36:00,Pelican Point,Jetty,Male,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,371,-,2021,8,1,1
+8/5/2021,10:36:00,Pelican Point,Wreck,Male,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,Net,369,Hatband,2021,8,,1
+8/5/2021,9:57:00,Pelican Point,Inside,Female,Juvenile,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,368,-,2021,8,,1
+8/5/2021,9:56:00,Pelican Point,Jetty,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,367,-,2021,8,,1
+8/4/2021,9:34:00,Pelican Point,Jetty,Male,Pup,Domestic,Clothing,Slight,Rescue Attempt,Failure,-,-,Escape,2021,8,1,1
+8/4/2021,9:32:00,Pelican Point,Jetty,Female,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,,363,Hatband,2021,8,,1
+8/4/2021,8:33:00,Pelican Point,Lighthouse (S),Female,Adult,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,361,100% Overgrown,2021,8,4,1
+8/4/2021,10:13:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,366,-,2021,8,4,1
+8/4/2021,10:12:00,Pelican Point,Wreck,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,365,-,2021,8,,1
+8/4/2021,9:33:00,Pelican Point,Jetty,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,364,-,2021,8,4,1
+8/4/2021,9:31:00,Pelican Point,Jetty,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,362,-,2021,8,,1
+8/3/2021,9:10:00,Pelican Point,Inside,Female,Pup,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,357,-,2021,8,,1
+8/3/2021,8:59:00,Pelican Point,Inside,Male,Juvenile,Domestic,Plastic Bag,,Sighting,-,-,-,Animal Too Close To The Water,2021,8,,1
+8/3/2021,10:47:00,Pelican Point,Lighthouse (S),Female,Adult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Failure,-,-,Escape,2021,8,4,1
+8/3/2021,9:46:00,Pelican Point,Outside,Female,Adult,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,359,-,2021,8,1,1
+8/3/2021,9:09:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,,356,-,2021,8,4,1
+8/3/2021,10:13:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,Slight,Rescue Attempt,Failure,-,-,Escape,2021,8,1,1
+8/3/2021,9:48:00,Pelican Point,Outside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,360,-,2021,8,,1
+8/3/2021,9:11:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,358,-,2021,8,4,1
+7/29/2021,11:13:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,355,-,2021,7,,1
+7/29/2021,11:00:00,Pelican Point,Point,Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,7,1,1
+7/29/2021,9:35:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,353,-,2021,7,,1
+7/29/2021,9:09:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,351,-,2021,7,3,1
+7/29/2021,10:59:00,Pelican Point,Point,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,354,-,2021,7,4,1
+7/29/2021,9:34:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,352,-,2021,7,,1
+7/28/2021,9:21:00,Cape Cross,Beach (N),Female,Pup,Domestic,Plastic Wrap,Very Severe,Rescue Attempt,Item Removed,,341,-,2021,7,4,1
+7/28/2021,9:19:00,Cape Cross,Walkway,Male,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,,339,Sweatshirt Cuff,2021,7,,1
+7/28/2021,10:48:00,Cape Cross,Beach (S),Female,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,350,100% Overgrown,2021,7,3,1
+7/28/2021,9:30:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,342,-,2021,7,4,1
+7/28/2021,9:20:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,340,-,2021,7,4,1
+7/28/2021,8:48:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,338,-,2021,7,4,1
+7/28/2021,8:47:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,337,-,2021,7,4,1
+7/28/2021,10:47:00,Cape Cross,Beach (S),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,349,-,2021,7,4,1
+7/28/2021,10:46:00,Cape Cross,Beach (S),Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,348,-,2021,7,1,1
+7/28/2021,10:37:00,Cape Cross,Beach (S),Male,Juvenile,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,347,-,2021,7,4,1
+7/28/2021,10:36:00,Cape Cross,Beach (S),Female,Pup,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,346,-,2021,7,4,1
+7/28/2021,10:14:00,Cape Cross,Beach (S),Female,Pup,Industrial,Rope,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,7,1,1
+7/28/2021,9:57:00,Cape Cross,Parking,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,345,-,2021,7,,1
+7/28/2021,9:54:00,Cape Cross,Walkway,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,344,-,2021,7,,1
+7/28/2021,9:53:00,Cape Cross,Walkway,Male,Subadult,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,343,-,2021,7,4,1
+7/27/2021,11:00:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,336,-,2021,7,,1
+7/27/2021,10:44:00,Pelican Point,Inside,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,335,-,2021,7,,1
+7/27/2021,10:43:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,334,-,2021,7,1,1
+7/27/2021,9:21:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,333,-,2021,7,1,1
+7/27/2021,9:09:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Dropped,-,332,Item Not Recovered,2021,7,,1
+7/26/2021,17:38:00,Pelican Point,Inside,Male,Subadult,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,331,-,2021,7,,1
+7/22/2021,9:45:00,Pelican Point,Inside,Male,Pup,Domestic,Plastic Wrap,Severe,Rescue Attempt,Item Removed,Net,327,-,2021,7,3,1
+7/22/2021,8:59:00,Pelican Point,Inside,Female,Subadult,Domestic,Plastic Wrap,Very Severe,Rescue Attempt,Item Removed,Net,325,-,2021,7,4,1
+7/22/2021,10:21:00,Pelican Point,Wreck,Male,Adult,Fishing,Recreational Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,7,1,1
+7/22/2021,10:07:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,7,1,1
+7/22/2021,9:47:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,329,-,2021,7,4,1
+7/22/2021,9:44:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,326,-,2021,7,,1
+7/22/2021,8:37:00,Pelican Point,Jetty,Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,324,-,2021,7,1,1
+7/22/2021,8:36:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,323,Animal Tied To #322,2021,7,,1
+7/22/2021,8:35:00,Pelican Point,Jetty,Female,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,322,Animal Tied To #323,2021,7,1,1
+7/22/2021,10:06:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,330,-,2021,7,4,1
+7/22/2021,9:46:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,328,-,2021,7,,1
+7/21/2021,11:31:00,Pelican Point,Wreck,Female,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,Net,321,-,2021,7,1,1
+7/21/2021,11:30:00,Pelican Point,Wreck,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,320,-,2021,7,,1
+7/21/2021,10:27:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,318,-,2021,7,,1
+7/21/2021,8:46:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,316,-,2021,7,3,1
+7/21/2021,11:07:00,Pelican Point,Jetty,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,319,-,2021,7,4,1
+7/21/2021,9:39:00,Pelican Point,Outside,Male,Subadult,Industrial,Gasket,Severe,Rescue Attempt,Item Removed,Net,317,-,2021,7,3,1
+7/21/2021,8:45:00,Pelican Point,Outside,Female,Adult,Natural,Seal's Fur & Skin,Very Severe,Rescue Attempt,Item Removed,Net,315,-,2021,7,4,1
+7/19/2021,10:53:00,Pelican Point,Outside,Female,Juvenile,Fishing,Other,,Rescue Attempt,Item Removed,Net,314,Longline Marker Netting,2021,7,,1
+7/19/2021,10:32:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,313,-,2021,7,4,1
+7/19/2021,9:49:00,Pelican Point,Point,Female,Juvenile,Fishing,Net,Slight,Rescue Attempt,Item Removed,,312,-,2021,7,1,1
+7/19/2021,9:26:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,311,-,2021,7,1,1
+7/19/2021,9:09:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,310,-,2021,7,,1
+7/19/2021,9:08:00,Pelican Point,Inside,Female,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,,309,-,2021,7,1,1
+7/19/2021,8:35:00,Pelican Point,Inside,Female,Pup,Fishing,Hook,Severe,Rescue Attempt,Item Removed,Net,307,#NAME?,2021,7,3,1
+7/19/2021,8:34:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,306,-,2021,7,4,1
+7/19/2021,9:50:00,Pelican Point,Point,Male,Pup,Industrial,Rope,Severe,Rescue Attempt,Failure,-,-,Escape,2021,7,3,1
+7/19/2021,9:07:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,308,-,2021,7,4,1
+7/16/2021,9:20:00,Cape Cross,Parking,Male,Pup,Domestic,Other,,Rescue Attempt,Item Removed,,302,Party Balloon Ribbon,2021,7,,1
+7/16/2021,9:08:00,Cape Cross,Beach (S),Male,Pup,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,298,-,2021,7,,1
+7/16/2021,8:49:00,Cape Cross,Walkway,Female,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,296,-,2021,7,,1
+7/16/2021,8:48:00,Cape Cross,Walkway,Female,Pup,Domestic,Plastic Bag,Slight,Rescue Attempt,Item Removed,,295,-,2021,7,1,1
+7/16/2021,11:27:00,Cape Cross,Beach (N),Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,305,-,2021,7,1,1
+7/16/2021,10:10:00,Cape Cross,Beach (S),Male,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,304,-,2021,7,3,1
+7/16/2021,9:12:00,Cape Cross,Beach (S),Female,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,Net,300,-,2021,7,1,1
+7/16/2021,9:04:00,Cape Cross,Beach (S),Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,297,-,2021,7,1,1
+7/16/2021,9:21:00,Cape Cross,Parking,Male,Pup,Industrial,Clothing,Slight,Rescue Attempt,Item Removed,Net,303,Hard Hat Lining,2021,7,1,1
+7/16/2021,9:19:00,Cape Cross,Parking,Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,,301,-,2021,7,1,1
+7/16/2021,9:11:00,Cape Cross,Beach (S),Male,Pup,Industrial,Gasket,Very Severe,Rescue Attempt,Item Removed,,299,-,2021,7,4,1
+7/16/2021,8:20:00,Cape Cross,Beach (N),Female,Juvenile,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,294,-,2021,7,1,1
+7/16/2021,8:19:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,293,-,2021,7,1,1
+7/16/2021,8:18:00,Cape Cross,Beach (N),Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,292,-,2021,7,1,1
+7/16/2021,8:17:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,291,-,2021,7,,1
+7/16/2021,8:16:00,Cape Cross,Beach (N),Female,Juvenile,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,290,-,2021,7,,1
+7/15/2021,8:50:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,285,-,2021,7,3,1
+7/15/2021,10:42:00,Pelican Point,Outside,Male,Subadult,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,289,-,2021,7,4,1
+7/15/2021,9:38:00,Pelican Point,Outside,Female,Subadult,Industrial,Other,Slight,Rescue Attempt,Item Removed,Net,288,Cargo Net,2021,7,1,1
+7/15/2021,9:35:00,Pelican Point,Outside,Female,Subadult,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,287,-,2021,7,4,1
+7/15/2021,9:34:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,286,-,2021,7,,1
+7/14/2021,10:42:00,Pelican Point,Wreck,Male,Juvenile,Fishing,Net,Very Severe,Rescue Attempt,Item Removed,Net,284,-,2021,7,4,1
+7/14/2021,9:42:00,Pelican Point,Outside,Female,Adult,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,Net,281,-,2021,7,4,1
+7/14/2021,10:11:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,283,-,2021,7,3,1
+7/14/2021,10:10:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,282,-,2021,7,1,1
+7/14/2021,9:41:00,Pelican Point,Outside,Female,Juvenile,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,280,-,2021,7,4,1
+7/14/2021,9:03:00,Pelican Point,Point,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,279,-,2021,7,4,1
+7/12/2021,10:39:00,Pelican Point,Inside,Male,Pup,Domestic,Clothing,Slight,Rescue Attempt,Item Removed,,278,Shirt,2021,7,1,1
+7/12/2021,10:38:00,Pelican Point,Inside,Male,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,,277,-,2021,7,1,1
+7/12/2021,10:18:00,Pelican Point,Inside,Unknown,Pup,Fishing,Commercial Line,,Rescue Attempt,Failure,-,-,Escape,2021,7,,1
+7/12/2021,9:39:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,276,-,2021,7,1,1
+7/12/2021,9:17:00,Pelican Point,Outside,Male,Adult,Fishing,Recreational Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,7,1,1
+7/12/2021,8:26:00,Pelican Point,Wreck,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,275,-,2021,7,,1
+7/9/2021,11:34:00,Cape Cross,Walkway,Female,Pup,Domestic,Other,,Rescue Attempt,Item Removed,,274,Face Mask,2021,7,,1
+7/9/2021,11:05:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,271,-,2021,7,4,1
+7/9/2021,10:27:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,270,-,2021,7,4,1
+7/9/2021,10:24:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,267,-,2021,7,3,1
+7/9/2021,10:22:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,265,-,2021,7,3,1
+7/9/2021,10:21:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,264,-,2021,7,3,1
+7/9/2021,10:00:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,7,1,1
+7/9/2021,9:37:00,Cape Cross,Parking,Female,Juvenile,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,263,-,2021,7,4,1
+7/9/2021,9:36:00,Cape Cross,Parking,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,262,-,2021,7,3,1
+7/9/2021,9:22:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,259,-,2021,7,1,1
+7/9/2021,8:59:00,Cape Cross,Walkway,Female,Juvenile,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,,257,-,2021,7,3,1
+7/9/2021,8:50:00,Cape Cross,Walkway,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,256,-,2021,7,3,1
+7/9/2021,8:30:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,255,-,2021,7,1,1
+7/9/2021,8:29:00,Cape Cross,Beach (N),Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,254,-,2021,7,4,1
+7/9/2021,8:05:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,252,-,2021,7,3,1
+7/9/2021,8:04:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,251,-,2021,7,4,1
+7/9/2021,11:07:00,Cape Cross,Beach (S),Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,273,-,2021,7,,1
+7/9/2021,11:06:00,Cape Cross,Beach (S),Female,Pup,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,272,-,2021,7,3,1
+7/9/2021,10:26:00,Cape Cross,Beach (N),Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,269,-,2021,7,3,1
+7/9/2021,10:25:00,Cape Cross,Beach (N),Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,268,-,2021,7,4,1
+7/9/2021,10:23:00,Cape Cross,Beach (N),Female,Pup,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,,266,-,2021,7,4,1
+7/9/2021,9:35:00,Cape Cross,Parking,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,261,-,2021,7,1,1
+7/9/2021,9:23:00,Cape Cross,Beach (S),Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,260,-,2021,7,4,1
+7/9/2021,9:21:00,Cape Cross,Beach (S),Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,258,-,2021,7,,1
+7/9/2021,8:17:00,Cape Cross,Parking,Female,Pup,Industrial,Clothing,,Rescue Attempt,Item Removed,Net,253,T-shirt Cuff,2021,7,,1
+7/8/2021,10:42:00,Pelican Point,Inside,Female,Juvenile,Domestic,Plastic Bag,Slight,Rescue Attempt,Item Removed,Net,247,-,2021,7,1,1
+7/8/2021,9:33:00,Pelican Point,Outside,Male,Subadult,Domestic,Plastic Bag,Severe,Rescue Attempt,Item Removed,Net,243,-,2021,7,3,1
+7/8/2021,11:08:00,Pelican Point,Wreck,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,250,-,2021,7,,1
+7/8/2021,10:43:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,248,-,2021,7,,1
+7/8/2021,10:41:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,246,-,2021,7,,1
+7/8/2021,10:04:00,Pelican Point,Point,Male,Juvenile,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,245,-,2021,7,4,1
+7/8/2021,10:03:00,Pelican Point,Point,Female,Adult,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,244,-,2021,7,4,1
+7/8/2021,11:07:00,Pelican Point,Wreck,Male,Adult,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,249,-,2021,7,1,1
+7/7/2021,10:06:00,Pelican Point,Inside,Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,242,-,2021,7,,1
+7/7/2021,10:05:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,241,-,2021,7,,1
+7/7/2021,9:09:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,239,-,2021,7,,1
+7/7/2021,9:11:00,Pelican Point,Jetty,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,240,-,2021,7,,1
+7/7/2021,9:10:00,Pelican Point,Jetty,Female,Pup,Industrial,Rope,,Rescue Attempt,Failure,-,-,Escape,2021,7,,1
+7/5/2021,9:57:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,238,-,2021,7,,1
+7/5/2021,9:26:00,Pelican Point,Outside,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,237,-,2021,7,4,1
+7/2/2021,9:36:00,Pelican Point,Inside,Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Dropped,-,233,-,2021,7,,1
+7/2/2021,10:32:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,236,-,2021,7,,1
+7/2/2021,9:12:00,Pelican Point,Outside,Male,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,232,-,2021,7,,1
+7/2/2021,10:31:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,235,-,2021,7,,1
+7/2/2021,10:30:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,234,-,2021,7,4,1
+6/30/2021,10:35:00,Pelican Point,Point,Male,Subadult,Fishing,Recreational Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,6,3,1
+6/30/2021,10:34:00,Pelican Point,Point,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,231,-,2021,6,3,1
+6/30/2021,9:10:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,,229,-,2021,6,4,1
+6/30/2021,8:39:00,Pelican Point,Jetty,Female,Subadult,Fishing,Commercial Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,6,3,1
+6/30/2021,10:33:00,Pelican Point,Point,Female,Subadult,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,230,-,2021,6,3,1
+6/30/2021,9:31:00,Pelican Point,Outside,Male,Subadult,Industrial,Rope,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,6,1,1
+6/30/2021,8:25:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Sighting,-,-,-,Animal Too Close To The Water,2021,6,,1
+6/28/2021,11:15:00,Pelican Point,Inside,Male,Adult,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,226,-,2021,6,,1
+6/28/2021,9:04:00,Pelican Point,Jetty,Female,Pup,Domestic,Plastic Bag,Slight,Rescue Attempt,Item Removed,Net,223,-,2021,6,1,1
+6/28/2021,12:07:00,Pelican Point,Point,Female,Subadult,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,228,-,2021,6,3,1
+6/28/2021,9:53:00,Pelican Point,Inside,Female,Subadult,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,224,-,2021,6,,1
+6/28/2021,12:06:00,Pelican Point,Point,Female,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,227,-,2021,6,,1
+6/28/2021,9:54:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,225,-,2021,6,,1
+6/28/2021,9:03:00,Pelican Point,Jetty,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,222,-,2021,6,,1
+6/27/2021,17:54:00,Other,Hout Bay (RSA),Male,Subadult,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,221,#NAME?,2021,6,1,1
+6/25/2021,8:46:00,Pelican Point,Outside,Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,Net,215,-,2021,6,,1
+6/25/2021,10:22:00,Other,Hout Bay (RSA),Female,Juvenile,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,220,-,2021,6,4,1
+6/25/2021,10:21:00,Other,Hout Bay (RSA),Male,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Hook,219,#NAME?,2021,6,1,1
+6/25/2021,9:49:00,Pelican Point,Jetty,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,217,-,2021,6,,1
+6/25/2021,8:45:00,Pelican Point,Outside,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,214,-,2021,6,4,1
+6/25/2021,9:50:00,Pelican Point,Jetty,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,218,-,2021,6,,1
+6/25/2021,9:48:00,Pelican Point,Jetty,Female,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,216,-,2021,6,,1
+6/23/2021,10:03:00,Pelican Point,Inside,Female,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,,213,-,2021,6,1,1
+6/23/2021,10:01:00,Pelican Point,Inside,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,211,-,2021,6,,1
+6/23/2021,9:31:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,210,-,2021,6,4,1
+6/23/2021,8:56:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,208,-,2021,6,,1
+6/23/2021,10:02:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,212,-,2021,6,4,1
+6/23/2021,9:30:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,209,-,2021,6,,1
+6/22/2021,8:50:00,Pelican Point,Inside,Female,Juvenile,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,Net,207,-,2021,6,,1
+6/21/2021,8:53:00,Pelican Point,Outside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,206,-,2021,6,4,1
+6/21/2021,8:52:00,Pelican Point,Outside,Male,Juvenile,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,205,-,2021,6,,1
+6/21/2021,8:28:00,Pelican Point,Jetty,Male,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,204,-,2021,6,3,1
+6/19/2021,12:14:00,Cape Cross,Walkway,Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Failure,-,-,Escape,2021,6,,1
+6/19/2021,12:03:00,Cape Cross,Walkway,Male,Pup,Fishing,Net,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,6,1,1
+6/19/2021,12:02:00,Cape Cross,Walkway,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,203,-,2021,6,3,1
+6/19/2021,10:43:00,Cape Cross,Beach (N),Female,Juvenile,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,200,-,2021,6,,1
+6/19/2021,9:49:00,Cape Cross,Beach (S),Female,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,197,-,2021,6,3,1
+6/19/2021,9:48:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,196,-,2021,6,1,1
+6/19/2021,9:47:00,Cape Cross,Beach (S),Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,195,-,2021,6,3,1
+6/19/2021,9:46:00,Cape Cross,Beach (S),Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,194,-,2021,6,3,1
+6/19/2021,8:55:00,Cape Cross,Parking,Female,Adult,Fishing,Net,,Rescue Attempt,Item Removed,Net,192,-,2021,6,,1
+6/19/2021,8:54:00,Cape Cross,Parking,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,191,-,2021,6,3,1
+6/19/2021,8:16:00,Cape Cross,Parking,Male,Juvenile,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,189,-,2021,6,4,1
+6/19/2021,12:08:00,Cape Cross,Walkway,Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Failure,-,-,Escape,2021,6,1,1
+6/19/2021,12:01:00,Cape Cross,Walkway,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,202,-,2021,6,,1
+6/19/2021,10:44:00,Cape Cross,Beach (N),Male,Juvenile,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,201,-,2021,6,4,1
+6/19/2021,10:42:00,Cape Cross,Beach (N),Male,Juvenile,Industrial,Gasket,Very Severe,Rescue Attempt,Item Removed,,199,-,2021,6,4,1
+6/19/2021,10:41:00,Cape Cross,Beach (N),Female,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,198,-,2021,6,1,1
+6/19/2021,9:08:00,Cape Cross,Parking,Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,193,-,2021,6,3,1
+6/19/2021,8:53:00,Cape Cross,Parking,Male,Juvenile,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,190,-,2021,6,1,1
+6/18/2021,10:47:00,Pelican Point,Inside,Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,188,#NAME?,2021,6,3,1
+6/18/2021,10:46:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,187,#NAME?,2021,6,1,1
+6/18/2021,10:01:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,,186,Previous Entanglement Scar,2021,6,1,1
+6/18/2021,10:00:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,185,-,2021,6,,1
+6/16/2021,11:46:00,Pelican Point,Inside,Male,Subadult,Domestic,Plastic Bag,Severe,Rescue Attempt,Item Removed,Net,183,-,2021,6,3,1
+6/16/2021,11:47:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,184,-,2021,6,1,1
+6/16/2021,10:18:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,181,-,2021,6,,1
+6/16/2021,11:03:00,Pelican Point,Outside,Male,Subadult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,182,-,2021,6,,1
+6/14/2021,8:49:00,Pelican Point,Jetty,Male,Juvenile,Domestic,Other,,Rescue Attempt,Item Removed,Net,178,Beach Soccer Net,2021,6,,1
+6/14/2021,10:18:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,180,-,2021,6,,1
+6/14/2021,8:23:00,Pelican Point,Wreck,Male,Pup,Fishing,Net,Severe,Rescue Attempt,Item Removed,,177,-,2021,6,3,1
+6/14/2021,9:41:00,Pelican Point,Point,Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,179,-,2021,6,3,1
+6/11/2021,10:41:00,Pelican Point,Outside,Female,Subadult,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,174,-,2021,6,,1
+6/11/2021,10:40:00,Pelican Point,Outside,Female,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,Net,173,-,2021,6,,1
+6/11/2021,10:42:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,175,-,2021,6,3,1
+6/11/2021,9:46:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,171,-,2021,6,3,1
+6/11/2021,9:45:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,170,-,2021,6,,1
+6/11/2021,9:44:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,169,-,2021,6,,1
+6/11/2021,9:04:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,6,1,1
+6/11/2021,9:02:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,,168,Animal Tied To #167,2021,6,1,1
+6/11/2021,9:01:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,167,Animal Tied To #168,2021,6,,1
+6/11/2021,10:43:00,Pelican Point,Outside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,176,-,2021,6,,1
+6/11/2021,10:39:00,Pelican Point,Outside,Male,Juvenile,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,172,-,2021,6,3,1
+6/11/2021,9:03:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,6,1,1
+6/11/2021,9:00:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,166,-,2021,6,3,1
+6/11/2021,8:52:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,165,-,2021,6,3,1
+6/10/2021,9:06:00,Pelican Point,Inside,Female,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,6,1,1
+6/10/2021,8:43:00,Pelican Point,Jetty,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,164,-,2021,6,,1
+6/8/2021,9:05:00,Pelican Point,Outside,Unknown,Juvenile,Fishing,Recreational Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,6,3,1
+6/8/2021,9:03:00,Pelican Point,Outside,Male,Juvenile,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,160,-,2021,6,,1
+6/8/2021,10:04:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,,163,-,2021,6,1,1
+6/8/2021,10:03:00,Pelican Point,Inside,Female,Pup,Industrial,Other,,Rescue Attempt,Item Removed,Net,162,Cargo Net,2021,6,,1
+6/8/2021,9:04:00,Pelican Point,Outside,Female,Juvenile,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,161,-,2021,6,1,1
+6/7/2021,9:37:00,Pelican Point,Point,Female,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,158,-,2021,6,,1
+6/7/2021,10:49:00,Pelican Point,Jetty,Male,Juvenile,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,6,1,1
+6/7/2021,10:28:00,Pelican Point,Outside,Male,Adult,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,159,-,2021,6,1,1
+6/7/2021,9:39:00,Pelican Point,Point,Female,Adult,Fishing,Recreational Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,6,1,1
+6/7/2021,9:38:00,Pelican Point,Point,Unknown,Pup,Fishing,Recreational Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,6,3,1
+6/7/2021,9:36:00,Pelican Point,Point,Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,157,-,2021,6,1,1
+6/7/2021,9:35:00,Pelican Point,Point,Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,156,-,2021,6,3,1
+6/7/2021,8:51:00,Pelican Point,Inside,Male,Juvenile,Fishing,Other,Very Severe,Rescue Attempt,Item Removed,Net,155,Commercial Line Spool,2021,6,4,1
+6/7/2021,10:29:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,Severe,Sighting,-,-,-,Animal Lost Within The Group,2021,6,3,1
+6/3/2021,9:10:00,Pelican Point,Inside,Male,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,Net,154,Hat,2021,6,,1
+6/3/2021,9:11:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,6,1,1
+6/3/2021,9:09:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,153,-,2021,6,,1
+6/2/2021,8:56:00,Pelican Point,Inside,Female,Pup,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,148,-,2021,6,,1
+6/2/2021,10:25:00,Pelican Point,Wreck,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,152,-,2021,6,,1
+6/2/2021,9:47:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,151,-,2021,6,4,1
+6/2/2021,8:58:00,Pelican Point,Inside,Female,Subadult,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,6,1,1
+6/2/2021,8:55:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,147,-,2021,6,1,1
+6/2/2021,9:46:00,Pelican Point,Outside,Female,Pup,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,150,-,2021,6,3,1
+6/2/2021,8:57:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,149,-,2021,6,,1
+6/1/2021,10:17:00,Pelican Point,Jetty,Male,Pup,Fishing,Commercial Line,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,6,1,1
+6/1/2021,10:16:00,Pelican Point,Jetty,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,146,-,2021,6,4,1
+6/1/2021,9:14:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,145,-,2021,6,,1
+6/1/2021,8:29:00,Pelican Point,Inside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,144,-,2021,6,3,1
+6/1/2021,8:28:00,Pelican Point,Inside,Male,Pup,Fishing,Net,Slight,Rescue Attempt,Item Removed,,143,-,2021,6,1,1
+6/1/2021,8:27:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,Deceased Animal,Sighting,-,-,-,Animal Tied To #142,2021,6,,1
+6/1/2021,8:26:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,,142,Animal Tied To Deceased,2021,6,4,1
+5/31/2021,9:06:00,Pelican Point,Outside,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,141,#NAME?,2021,5,4,1
+5/29/2021,10:51:00,Cape Cross,Beach (S),Male,Pup,Domestic,Other,,Rescue Attempt,Item Removed,Net,140,Dog Toy,2021,5,,1
+5/29/2021,9:34:00,Cape Cross,Walkway,Male,Pup,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,,137,-,2021,5,,1
+5/29/2021,10:52:00,Cape Cross,Beach (S),Female,Pup,Fishing,Recreational Line,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,5,1,1
+5/29/2021,10:50:00,Cape Cross,Beach (S),Male,Pup,Fishing,Other,,Rescue Attempt,Item Removed,,139,Commercial Line Spool,2021,5,,1
+5/29/2021,10:14:00,Cape Cross,Beach (S),Male,Subadult,Fishing,Net,Slight,Rescue Attempt,Item Removed,Net,138,-,2021,5,1,1
+5/29/2021,8:54:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Severe,Sighting,-,-,-,Animal Lost Within The Group,2021,5,3,1
+5/29/2021,9:35:00,Cape Cross,Walkway,Male,Pup,Industrial,Rope,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,5,1,1
+5/29/2021,8:55:00,Cape Cross,Walkway,Female,Juvenile,Industrial,Rope,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,5,1,1
+5/27/2021,8:24:00,Pelican Point,Outside,Female,Juvenile,Domestic,Clothing,,Rescue Attempt,Item Removed,Net,130,-,2021,5,,1
+5/27/2021,10:23:00,Pelican Point,Jetty,Female,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,135,-,2021,5,1,1
+5/27/2021,9:48:00,Pelican Point,Inside,Male,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,,134,-,2021,5,1,1
+5/27/2021,9:00:00,Pelican Point,Point,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,133,-,2021,5,,1
+5/27/2021,8:25:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,131,-,2021,5,1,1
+5/27/2021,10:24:00,Pelican Point,Jetty,Male,Pup,Industrial,Gasket,,Rescue Attempt,Item Removed,,136,-,2021,5,,1
+5/27/2021,8:26:00,Pelican Point,Outside,Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,,132,-,2021,5,1,1
+5/26/2021,8:30:00,Pelican Point,Inside,Male,Adult,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,129,-,2021,5,1,1
+5/25/2021,9:22:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,127,-,2021,5,1,1
+5/25/2021,10:04:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,128,-,2021,5,4,1
+5/25/2021,8:50:00,Pelican Point,Point,Male,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,126,-,2021,5,4,1
+5/25/2021,8:49:00,Pelican Point,Point,Male,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,125,-,2021,5,3,1
+5/25/2021,8:48:00,Pelican Point,Point,Female,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,,124,-,2021,5,1,1
+5/24/2021,8:23:00,Pelican Point,Wreck,Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,123,#NAME?,2021,5,1,1
+5/22/2021,8:52:00,Pelican Point,Inside,Male,Pup,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,,120,-,2021,5,,1
+5/22/2021,10:04:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,122,-,2021,5,4,1
+5/22/2021,10:03:00,Pelican Point,Outside,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,121,-,2021,5,,1
+5/20/2021,8:59:00,Pelican Point,Inside,Female,Pup,Domestic,Other,,Rescue Attempt,Item Removed,Net,118,Strainer,2021,5,,1
+5/20/2021,10:03:00,Pelican Point,Jetty,Female,Adult,Fishing,Commercial Line,Severe,Sighting,-,-,-,Animal Lost Within The Group,2021,5,3,1
+5/20/2021,10:02:00,Pelican Point,Jetty,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,119,-,2021,5,4,1
+5/20/2021,8:58:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,117,-,2021,5,,1
+5/20/2021,8:20:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,115,-,2021,5,,1
+5/20/2021,8:57:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,,116,-,2021,5,4,1
+5/18/2021,9:32:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,113,-,2021,5,3,1
+5/18/2021,9:31:00,Pelican Point,Outside,Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,112,-,2021,5,3,1
+5/18/2021,8:46:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,111,-,2021,5,3,1
+5/18/2021,8:18:00,Pelican Point,Jetty,Male,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,109,#NAME?,2021,5,1,1
+5/18/2021,16:27:00,Other,Walvis Bay,Male,Adult,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Hook,114,-,2021,5,3,1
+5/18/2021,9:33:00,Pelican Point,Outside,Male,Adult,Industrial,Rope,Very Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,5,4,1
+5/18/2021,8:19:00,Pelican Point,Jetty,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,110,-,2021,5,,1
+5/17/2021,10:25:00,Cape Cross,Beach (N),Male,Pup,Domestic,Plastic Wrap,Slight,Rescue Attempt,Item Removed,,107,-,2021,5,1,1
+5/17/2021,10:26:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,108,-,2021,5,,1
+5/17/2021,10:03:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,5,1,1
+5/17/2021,10:02:00,Cape Cross,Beach (N),Male,Juvenile,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,Net,106,-,2021,5,4,1
+5/17/2021,9:40:00,Cape Cross,Beach (N),Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,105,-,2021,5,4,1
+5/17/2021,8:19:00,Cape Cross,Walkway,Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,,103,-,2021,5,1,1
+5/17/2021,8:20:00,Cape Cross,Beach (N),Female,Juvenile,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,104,-,2021,5,3,1
+5/16/2021,18:15:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,5,1,1
+5/14/2021,8:47:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,100,-,2021,5,,1
+5/14/2021,10:01:00,Pelican Point,Wreck,Male,Pup,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,102,-,2021,5,3,1
+5/14/2021,9:32:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,101,-,2021,5,,1
+5/13/2021,8:18:00,Pelican Point,Wreck,Male,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,,95,T-shirt Cuff,2021,5,,1
+5/13/2021,9:28:00,Pelican Point,Point,Female,Juvenile,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,98,-,2021,5,3,1
+5/13/2021,9:29:00,Pelican Point,Point,Male,Pup,Industrial,Rope,Slight,Rescue Attempt,Item Removed,,99,-,2021,5,1,1
+5/13/2021,9:14:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,97,-,2021,5,1,1
+5/13/2021,9:13:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,96,-,2021,5,,1
+5/12/2021,18:23:00,Pelican Point,Inside,Male,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Item Removed,Net,94,-,2021,5,1,1
+5/11/2021,9:45:00,Pelican Point,Wreck,Female,Adult,Fishing,Commercial Line,Very Severe,Sighting,-,-,-,Animal Lost Within The Group,2021,5,4,1
+5/11/2021,8:59:00,Pelican Point,Inside,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,93,#NAME?,2021,5,,1
+5/11/2021,8:58:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,92,-,2021,5,,1
+5/11/2021,9:46:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Slight,Rescue Attempt,Failure,-,-,Escape,2021,5,1,1
+5/5/2021,8:53:00,Pelican Point,Outside,Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,90,-,2021,5,3,1
+5/5/2021,8:52:00,Pelican Point,Outside,Female,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,Net,89,-,2021,5,3,1
+5/5/2021,8:51:00,Pelican Point,Outside,Unknown,Juvenile,Fishing,Recreational Line,Very Severe,Rescue Attempt,Failure,-,-,Escape,2021,5,4,1
+5/5/2021,9:15:00,Pelican Point,Lighthouse (N),Male,Juvenile,Industrial,Clothing,,Rescue Attempt,Item Removed,Net,91,Hard Hat Lining,2021,5,,1
+5/4/2021,9:04:00,Pelican Point,Outside,Male,Subadult,Domestic,Plastic Bag,,Rescue Attempt,Failure,-,-,Escape,2021,5,,1
+5/4/2021,8:33:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,88,-,2021,5,,1
+5/4/2021,7:52:00,Pelican Point,Wreck,Female,Pup,Fishing,Net,Very Severe,Rescue Attempt,Item Removed,Net,86,-,2021,5,4,1
+5/4/2021,9:03:00,Pelican Point,Outside,Male,Subadult,Industrial,Rope,Slight,Rescue Attempt,Failure,-,-,Escape,2021,5,1,1
+5/4/2021,8:18:00,Pelican Point,Jetty,Male,Pup,Industrial,Gasket,,Rescue Attempt,Item Removed,,87,-,2021,5,,1
+5/3/2021,9:08:00,Pelican Point,Point,Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,85,-,2021,5,,1
+5/3/2021,8:43:00,Pelican Point,Outside,Unknown,Pup,Fishing,Recreational Line,,Rescue Attempt,Failure,-,-,Escape,2021,5,,1
+5/3/2021,7:45:00,Pelican Point,Wreck,Unknown,Pup,Fishing,Net,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,5,1,1
+5/3/2021,7:44:00,Pelican Point,Wreck,Unknown,Juvenile,Fishing,Commercial Line,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,5,3,1
+5/3/2021,8:12:00,Pelican Point,Outside,Female,Adult,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,84,-,2021,5,1,1
+5/3/2021,8:00:00,Pelican Point,Outside,Male,Adult,Industrial,Rope,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,5,3,1
+4/30/2021,9:02:00,Pelican Point,Inside,Female,Pup,Fishing,Hook,Very Severe,Rescue Attempt,Item Removed,,83,-,2021,4,4,1
+4/30/2021,8:41:00,Pelican Point,Point,Female,Adult,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,82,-,2021,4,3,1
+4/30/2021,7:59:00,Pelican Point,Outside,Male,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,81,-,2021,4,,1
+4/28/2021,9:59:00,Pelican Point,Wreck,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,80,-,2021,4,4,1
+4/28/2021,8:50:00,Pelican Point,Outside,Female,Juvenile,Fishing,Net,Slight,Rescue Attempt,Item Removed,Net,78,-,2021,4,1,1
+4/28/2021,8:11:00,Pelican Point,Outside,Female,Adult,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,77,-,2021,4,1,1
+4/28/2021,9:39:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,79,-,2021,4,,1
+4/28/2021,8:12:00,Pelican Point,Outside,Unknown,Juvenile,Industrial,Rope,,Sighting,-,-,-,Animal Lost Within The Group,2021,4,,1
+4/26/2021,9:01:00,Pelican Point,Outside,Female,Juvenile,Domestic,Plastic Bag,,Rescue Attempt,Item Removed,Net,70,-,2021,4,,1
+4/26/2021,9:02:00,Pelican Point,Outside,Male,Subadult,Fishing,Net,,Rescue Attempt,Item Removed,Net,71,-,2021,4,,1
+4/26/2021,10:24:00,Pelican Point,Wreck,Unknown,Pup,Industrial,Packaging Strap,Severe,Rescue Attempt,Failure,-,-,Escape,2021,4,3,1
+4/26/2021,10:09:00,Pelican Point,Jetty,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,76,-,2021,4,,1
+4/26/2021,9:45:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,75,-,2021,4,3,1
+4/26/2021,9:44:00,Pelican Point,Inside,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,74,-,2021,4,,1
+4/26/2021,9:19:00,Pelican Point,Point,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,73,-,2021,4,,1
+4/26/2021,9:18:00,Pelican Point,Point,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,72,-,2021,4,,1
+4/26/2021,8:26:00,Pelican Point,Outside,Female,Juvenile,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,69,-,2021,4,1,1
+4/26/2021,8:14:00,Pelican Point,Outside,Male,Adult,Industrial,Packaging Strap,Slight,Rescue Attempt,Failure,-,-,Escape,2021,4,1,1
+4/23/2021,9:02:00,Pelican Point,Outside,Female,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,63,-,2021,4,,1
+4/23/2021,9:55:00,Pelican Point,Jetty,Male,Subadult,Fishing,Net,Severe,Rescue Attempt,Item Removed,Net,68,-,2021,4,3,1
+4/23/2021,9:25:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,67,-,2021,4,,1
+4/23/2021,9:24:00,Pelican Point,Outside,Male,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,66,-,2021,4,,1
+4/23/2021,9:07:00,Pelican Point,Outside,Female,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,64,-,2021,4,4,1
+4/23/2021,8:24:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Very Severe,Rescue Attempt,Item Removed,,62,-,2021,4,4,1
+4/23/2021,9:54:00,Pelican Point,Jetty,Unknown,Pup,Industrial,Rope,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,4,1,1
+4/23/2021,9:12:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,65,-,2021,4,,1
+4/23/2021,9:01:00,Pelican Point,Inside,Unknown,Pup,Industrial,Rope,Slight,Sighting,-,-,-,Animal Lost Within The Group,2021,4,1,1
+4/23/2021,10:10:00,Pelican Point,Wreck,Unknown,Subadult,Natural,Saint Joseph Shark Spike,Severe,Sighting,-,-,-,Animal Too Close To The Water,2021,4,3,1
+4/21/2021,9:04:00,Pelican Point,Outside,Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,61,-,2021,4,,1
+4/21/2021,8:58:00,Pelican Point,Outside,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,60,-,2021,4,,1
+4/21/2021,7:37:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,59,-,2021,4,,1
+4/20/2021,8:52:00,Pelican Point,Inside,Female,Juvenile,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,58,-,2021,4,3,1
+4/17/2021,10:24:00,Pelican Point,Wreck,Unknown,Pup,Fishing,Net,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,4,1,1
+4/17/2021,9:00:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,57,#NAME?,2021,4,3,1
+4/17/2021,10:09:00,Pelican Point,Inside,Unknown,Pup,Industrial,Packaging Strap,Slight,Rescue Attempt,Failure,-,-,Escape,2021,4,1,1
+4/17/2021,9:27:00,Pelican Point,Outside,Unknown,Subadult,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal In The Water,2021,4,1,1
+4/17/2021,8:59:00,Pelican Point,Inside,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,56,#NAME?,2021,4,,1
+4/17/2021,8:58:00,Pelican Point,Inside,Unknown,Pup,Industrial,Packaging Strap,Slight,Sighting,-,-,-,Animal Too Close To The Water,2021,4,1,1
+4/15/2021,8:36:00,Pelican Point,Lighthouse (N),Unknown,Juvenile,Fishing,Commercial Line,Slight,Rescue Attempt,Failure,-,-,Escape,2021,4,1,1
+4/14/2021,9:22:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Failure,-,-,Escape,2021,4,3,1
+4/14/2021,9:11:00,Pelican Point,Outside,Male,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,55,-,2021,4,,1
+4/14/2021,8:27:00,Pelican Point,Inside,Male,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,54,#NAME?,2021,4,,1
+4/14/2021,8:57:00,Pelican Point,Outside,Female,Subadult,Industrial,Packaging Strap,Slight,Rescue Attempt,Failure,-,-,Escape,2021,4,1,1
+4/12/2021,8:50:00,Pelican Point,Lighthouse (N),Male,Subadult,Industrial,Clothing,Very Severe,Rescue Attempt,Item Removed,Net,53,Boot Cuff,2021,4,4,1
+4/9/2021,8:35:00,Pelican Point,Inside,Female,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,52,-,2021,4,,1
+4/9/2021,9:16:00,Pelican Point,Point,Female,Pup,Industrial,Clothing,Deceased Animal,Sighting,-,-,-,Glove Cuff,2021,4,,1
+4/9/2021,8:06:00,Pelican Point,Jetty,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,51,-,2021,4,,1
+4/3/2021,10:44:00,Cape Cross,Beach (S),Female,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,50,-,2021,4,,1
+4/3/2021,8:28:00,Cape Cross,Walkway,Male,Pup,Fishing,Recreational Line,,Rescue Attempt,Item Removed,,49,-,2021,4,,1
+3/31/2021,8:10:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,48,-,2021,3,,1
+3/29/2021,8:42:00,Pelican Point,Outside,Male,Subadult,Domestic,Clothing,,Rescue Attempt,Item Removed,Net,47,Hat,2021,3,,1
+3/29/2021,7:27:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,46,-,2021,3,4,1
+3/24/2021,7:58:00,Pelican Point,Inside,Female,Adult,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,45,-,2021,3,4,1
+3/23/2021,7:43:00,Pelican Point,Lighthouse (N),Male,Subadult,Fishing,Commercial Line,Very Severe,Rescue Attempt,Item Removed,Net,44,-,2021,3,4,1
+3/16/2021,16:23:00,Other,Mowe Bay,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,Net,43,-,2021,3,,1
+3/14/2021,8:58:00,Other,Mowe Bay,Male,Juvenile,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,42,-,2021,3,1,1
+3/14/2021,8:40:00,Other,Mowe Bay,Female,Subadult,Industrial,Rope,,Rescue Attempt,Item Removed,Net,41,-,2021,3,,1
+3/14/2021,7:56:00,Other,Mowe Bay,Male,Subadult,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,40,-,2021,3,4,1
+3/14/2021,7:40:00,Other,Mowe Bay,Female,Subadult,Industrial,Packaging Strap,Very Severe,Rescue Attempt,Item Removed,Net,39,-,2021,3,4,1
+3/13/2021,9:45:00,Cape Cross,Parking,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,38,-,2021,3,,1
+3/12/2021,8:30:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,37,-,2021,3,,1
+3/8/2021,8:27:00,Pelican Point,Inside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,36,-,2021,3,,1
+3/5/2021,8:45:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,35,-,2021,3,1,1
+3/3/2021,8:11:00,Pelican Point,Wreck,Female,Subadult,Industrial,Rope,Severe,Rescue Attempt,Failure,-,-,Escape,2021,3,3,1
+3/3/2021,8:10:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,34,-,2021,3,,1
+3/3/2021,8:09:00,Pelican Point,Wreck,Female,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,33,-,2021,3,,1
+3/1/2021,9:09:00,Pelican Point,Wreck,Male,Adult,Fishing,Commercial Line,Severe,Rescue Attempt,Item Removed,Net,32,-,2021,3,3,1
+3/1/2021,7:48:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,31,-,2021,3,,1
+2/24/2021,8:53:00,Pelican Point,Outside,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,Net,30,-,2021,2,,1
+2/24/2021,8:05:00,Pelican Point,Wreck,Female,Adult,Industrial,Rope,Slight,Rescue Attempt,Item Removed,Net,29,-,2021,2,1,1
+2/22/2021,7:34:00,Pelican Point,Wreck,Male,Adult,Natural,Saint Joseph Shark Spike,Slight,Rescue Attempt,Item Removed,Net,28,-,2021,2,1,1
+2/19/2021,9:18:00,Pelican Point,Jetty,Male,Juvenile,Industrial,Clothing,Very Severe,Rescue Attempt,Item Removed,Net,27,Glove Cuff,2021,2,4,1
+2/17/2021,10:25:00,Cape Cross,Beach (N),Female,Pup,Domestic,Clothing,,Rescue Attempt,Item Removed,,26,T-shirt Thread,2021,2,,1
+2/17/2021,9:51:00,Cape Cross,Walkway,Male,Pup,Industrial,Rope,,Rescue Attempt,Item Removed,,25,-,2021,2,,1
+2/12/2021,7:43:00,Pelican Point,Wreck,Male,Adult,Industrial,Packaging Strap,Severe,Rescue Attempt,Item Removed,Net,24,-,2021,2,3,1
+2/9/2021,18:38:00,Pelican Point,Inside,Male,Subadult,Fishing,Recreational Line,,Rescue Attempt,Item Removed,Net,23,-,2021,2,,1
+2/9/2021,18:02:00,Pelican Point,Outside,Female,Adult,Fishing,Commercial Line,Slight,Rescue Attempt,Item Removed,Net,22,-,2021,2,1,1
+2/5/2021,8:32:00,Cape Cross,Walkway,Female,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,18,-,2021,2,,1
+2/5/2021,10:28:00,Cape Cross,Parking,Female,Juvenile,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,21,-,2021,2,1,1
+2/5/2021,9:39:00,Cape Cross,Beach (N),Male,Adult,Industrial,Gasket,,Rescue Attempt,Item Removed,Net,20,-,2021,2,,1
+2/5/2021,8:42:00,Cape Cross,Beach (S),Male,Juvenile,Industrial,Rope,,Rescue Attempt,Item Removed,Net,19,-,2021,2,,1
+2/5/2021,8:00:00,Cape Cross,Walkway,Male,Adult,Industrial,Rope,,Rescue Attempt,Item Removed,Net,17,-,2021,2,,1
+2/4/2021,8:49:00,Pelican Point,Inside,Male,Pup,Fishing,Recreational Line,Slight,Rescue Attempt,Item Removed,Net,16,-,2021,2,1,1
+1/29/2021,9:13:00,Pelican Point,Lighthouse (N),Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,13,-,2021,1,,1
+1/29/2021,9:31:00,Pelican Point,Outside,Male,Adult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,14,-,2021,1,,1
+1/29/2021,9:51:00,Pelican Point,Wreck,Female,Subadult,Industrial,Rope,Very Severe,Rescue Attempt,Item Removed,Net,15,-,2021,1,4,1
+1/29/2021,8:17:00,Pelican Point,Jetty,Female,Adult,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,12,-,2021,1,3,1
+1/28/2021,8:25:00,Pelican Point,Point,Male,Pup,Domestic,Plastic Wrap,,Rescue Attempt,Item Removed,,10,-,2021,1,,1
+1/28/2021,8:43:00,Pelican Point,Outside,Female,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,11,-,2021,1,,1
+1/22/2021,7:52:00,Pelican Point,Jetty,Male,Pup,Industrial,Packaging Strap,,Rescue Attempt,Item Removed,,9,-,2021,1,,1
+1/21/2021,8:43:00,Pelican Point,Inside,Female,Pup,Industrial,Other,,Rescue Attempt,Item Dropped,-,8,Bucket Sealing Ring,2021,1,,1
+1/19/2021,7:06:00,Pelican Point,Wreck,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,7,#NAME?,2021,1,,1
+1/18/2021,8:14:00,Pelican Point,Inside,Female,Pup,Fishing,Commercial Line,,Rescue Attempt,Item Removed,,6,-,2021,1,,1
+1/17/2021,10:37:00,Pelican Point,Point,Female,Subadult,Fishing,Commercial Line,,Rescue Attempt,Item Removed,Net,5,-,2021,1,,1
+1/13/2021,9:10:00,Cape Cross,Walkway,Male,Juvenile,Fishing,Recreational Line,Severe,Rescue Attempt,Item Removed,,3,-,2021,1,3,1
+1/13/2021,9:21:00,Cape Cross,Parking,Male,Subadult,Industrial,Rope,Severe,Rescue Attempt,Item Removed,Net,4,-,2021,1,3,1
+1/9/2021,10:00:00,Pelican Point,Point,Male,Pup,Fishing,Net,,Rescue Attempt,Item Removed,,2,-,2021,1,,1
+1/4/2021,8:40:00,Pelican Point,Wreck,Female,Juvenile,Industrial,Rope,Severe,Rescue Attempt,Item Removed,,1,-,2021,1,3,1
