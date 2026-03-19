@@ -28,10 +28,16 @@ Entanglement events cluster near Pelican Point and Cape Cross and show seasonal 
 ## Repository Structure
 data/ – dataset used for analysis  
 notebooks/ – project analysis notebook  
-figures/ – visualizations generated during analysis
+figures/ – visualizations generated during analysis  
+## Key Visualizations
+### Composition of Entanglement Events
+![Composition](Composition%20of%20entanglement%20events.png)
+### Entanglement Severity by Debris Category
+![Severity](Boxplot%20of%20entanglement%20severity.png)
+### Monthly Trend of Entanglement Events
+![Trend](Monthly%20trends%20in%20events.png)
 ## Tools
-R,tidyverse,ggplot2
-
+R, tidyverse, ggplot2  
 
 
 Milton Kimbini | Yale School of the Environment | Environmental Data Science Certificate (2025–2026)
