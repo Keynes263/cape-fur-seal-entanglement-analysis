@@ -1,3 +1,6 @@
+## 📊 Main Analysis Notebook
+The primary capstone analysis (code, narrative, and visualizations) is available here:
+👉 [Open the analysis notebook](notebooks/cape_fur_seal_entanglements_2021_2025.ipynb)
 # Spatial, Temporal, and Demographic Patterns of Cape Fur Seal Entanglements (2021–2025)
 ## Project Overview
 Marine debris entanglement is a growing threat to Cape fur seals along Namibia’s coast, particularly near major breeding colonies such as Pelican Point and Cape Cross. This project analyzes entanglement incidents recorded between 2021 and 2025 using environmental data science methods.
